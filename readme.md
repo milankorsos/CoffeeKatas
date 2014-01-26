@@ -8,4 +8,3 @@ Collection of CoffeeScript TDD Kata experiments using [Node](http://nodejs.org/)
 ```
 $ npm install
 ```
-
