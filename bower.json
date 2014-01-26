@@ -1,0 +1,17 @@
+{
+	"name": "CoffeeKatas",
+	"description": "CoffeeScript TDD Kata experiments",
+	"author": "Milan Korsos",
+	"version": "0.0.1",
+	"license": "MIT",
+	"main": "",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"chai": "~1.8.1",
+		"mocha": "~1.16.2"
+	}
+}
